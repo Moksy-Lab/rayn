@@ -1,7 +1,10 @@
 /*****hanu*****/
 /* #hanu(e871d461930b46f7) #css starts */
-.headere871d461930b46f7 .letter{
-    color: #FF6600
+.headere871d461930b46f7 img {
+    max-height: 35px
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3B3B3B
 }
 .headere871d461930b46f7 .navbar-light .navbar-nav .nav-link:hover {
     color: #FF6600
@@ -39,6 +42,11 @@
         border-radius: 0px;
         font-weight: 600
     }
+    @media (min-width: 768px) {
+        .calltoactionca75l1dtxe0 .pt-md-5, .py-md-5 {
+            padding-top: 1rem!important
+        }
+    }
     /* #cion(calltoactionca75l1dtxe0) #css ends  */
 /*****cion*****/
 
@@ -53,7 +61,8 @@
     .caavoduJuy9P4WAKtH2J .btn-outline-primary {
         border-radius: 0px;
         color: black;
-        border-color: #fff
+        border-color: #fff;
+        font-weight: 600
     }
     .caavoduJuy9P4WAKtH2J .btn-outline-primary:hover,
     .btn-outline-primary:not(:disabled):not(.disabled):active {
@@ -68,7 +77,8 @@
 /*****campbell*****/
     /* #campbell(campbelldy9djhgjfg) #css starts  */
     .campbelldy9djhgjfg h1{
-        padding: 2.5rem 0
+        padding: 2.5rem 0;
+        font-size: 32px
     }
     /* #campbell(campbelldy9djhgjfg) #css ends  */
 /*****campbell*****/
@@ -86,9 +96,20 @@
 
 /*****faye*****/
 /* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block {
+    padding: 4.5rem 0
+}
+h2{
+    font-size: 20px
+}
+.fayete8bna5e4lc .fdb-block .fdb-box {
+    padding: 1.75rem 2.5rem
+}
+
 .fayete8bna5e4lc .fdb-block .fdb-touch {
     border-top: solid 0.3125rem #FF6600
    }
+
 
 .fayete8bna5e4lc a{
     font-weight: 600;
@@ -106,14 +127,15 @@
     /* #cash(c1486b52e923e265f) #css starts  */
     .counterc1486b52e923e265f h2{
         color: #FF6600;
-        margin-top: 15px
+        margin-top: 15px;
+        font-weight: 600
     }
     .counterc1486b52e923e265f .BG{
         background-color:#fff
     }
     .counterc1486b52e923e265f .fa{
         margin-top: 10px;
-        font-size: 60px
+        font-size: 40px
     }
 
     /* #cash(c1486b52e923e265f) #css ends  */
@@ -132,14 +154,22 @@
 
 /*****ford*****/
     /* #ford(bf5e57dc82a907a3) #css starts */
+    .footerbf5e57dc82a907a3 .footerBG {
+        background-color: rgba(0, 0, 0, 0.2);
+        color: #3B3B3B;
+        font-weight: 600;
+    }
     .footerbf5e57dc82a907a3 .BG {
         background-color: #fff
     }
     .footerbf5e57dc82a907a3 h6 {
         font-size: 16px
     }
+    .footerbf5e57dc82a907a3 h6:hover {
+        color: #FF6600
+    }
     .footerbf5e57dc82a907a3 .text-white {
-        color: black!important;
+        color: #3B3B3B!important;
     }
     .footerbf5e57dc82a907a3 .fa {
         background-color: lightgreen
